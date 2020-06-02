@@ -8,8 +8,8 @@ Model 3 : 7 layers with 4 convolution layer
 ![model3](https://user-images.githubusercontent.com/39691728/83566440-f5efe200-a55a-11ea-8405-bce987d04baa.png)
 
 # 2. Training with training loss
-Training step
-Training for 5 epochs
+# Training step
+# Training for 5 epochs
 Model 1
 ![training_model1](https://user-images.githubusercontent.com/39691728/83567039-eb821800-a55b-11ea-8886-9d9f3731207a.png)
 Model 2
@@ -18,7 +18,7 @@ Model 3
 ![training_model3](https://user-images.githubusercontent.com/39691728/83568881-a6abb080-a55e-11ea-993a-54de1c8b989d.png)
 
 # 3. Test accuracy
-Perform test with test data
+# Perform test with test data
 Model 1
 ![test_model1](https://user-images.githubusercontent.com/39691728/83568873-a6131a00-a55e-11ea-92c0-95532860bce6.png)
 Model 2
