@@ -13,18 +13,18 @@ Training for 5 epochs
 Model 1
 ![training_model1](https://user-images.githubusercontent.com/39691728/83567039-eb821800-a55b-11ea-8886-9d9f3731207a.png)
 Model 2
-![training_model2](https://user-images.githubusercontent.com/39691728/83567768-13be4680-a55d-11ea-8ac7-d83001bbdaf5.png)
+![training_model2](https://user-images.githubusercontent.com/39691728/83568877-a6abb080-a55e-11ea-9a10-e05546fbaa28.png)
 Model 3
-![training_model3](https://user-images.githubusercontent.com/39691728/83567785-1e78db80-a55d-11ea-8e7e-0e9210be4aec.png)
+![training_model3](https://user-images.githubusercontent.com/39691728/83568881-a6abb080-a55e-11ea-993a-54de1c8b989d.png)
 
 3. Test accuracy
 Perform test with test data
 Model 1
-![test_model1](https://user-images.githubusercontent.com/39691728/83567813-2d5f8e00-a55d-11ea-88ed-8afd41e45bbb.png)
+![test_model1](https://user-images.githubusercontent.com/39691728/83568873-a6131a00-a55e-11ea-92c0-95532860bce6.png)
 Model 2
-![test_model2](https://user-images.githubusercontent.com/39691728/83567823-30f31500-a55d-11ea-9ad1-a75c9ce4f9a5.png)
+![test_model2](https://user-images.githubusercontent.com/39691728/83568871-a57a8380-a55e-11ea-9d5f-067195208d43.png)
 Model 3
-![test_model3](https://user-images.githubusercontent.com/39691728/83567829-32bcd880-a55d-11ea-95b8-390371e53c90.png)
+![test_model3](https://user-images.githubusercontent.com/39691728/83568870-a4e1ed00-a55e-11ea-836a-b54d539daed0.png)
 
 4. Images and corresponding probability that predicted Right
 Model 1
